@@ -90,3 +90,10 @@ Possible target users:
 - Users receiving suspicious SMS/messages
 - Users who primarily communicate in Indian languages
 
+<b>👨‍💻 Team</b>  
+## 👥 Team
+|     Member    | GitHub | Role |<br>
+|--------|--------|------|<br>
+| Rhytham Gupta |  rhytham0705 | Project Lead / Cybersecurity |<br>
+|   Rashi Soni  | rashisoni718 | Frontend / Backend |<br>
+
